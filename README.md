@@ -8,12 +8,19 @@ https://simulator.worldcoin.org/
 ### Exposed endpoints
 
 https://developer.worldcoin.org/api/v1/precheck/
+
 https://signup-orb-ethereum.stage-crypto.worldcoin.org
+
 https://signup-phone-ethereum.stage-crypto.worldcoin.org
+
 https://status.worldcoin.org/api/services
+
 https://bridge.worldcoin.org
+
 https://worldcoin.org/verify?t=wld&i=${f}&k=${encodeURIComponent(await x(u))}${t&&t!==S?`&b=${encodeURIComponent(t)}
+
 https://openchain.xyz/signatures?query=${e}.
+
 https://viem.sh${i}.html${t.docsSlug?
 
 
